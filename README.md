@@ -1,5 +1,4 @@
-
-        Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oscar Campos
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oscar Campos
 ====================================================================================================================================
 
 Web Devopler and Designer
@@ -7,7 +6,7 @@ Web Devopler and Designer
 
 Pasionate about making a vision into reality while at the same time increasing my capabilities as a designer
 
-*   🌍  I'm based in Denver
+*   🌍  I'm based in Denver, Colorado
 *   🖥️  See my portfolio at [oscarcampos96.com](http://oscarcampos96.com)
 *   ✉️  You can contact me at [oscarc691@gmail.com](mailto:oscarc691@gmail.com)
 *   🧠  I'm learning React.js, Nect.js, SQL, and Python
