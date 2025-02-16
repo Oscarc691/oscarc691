@@ -9,7 +9,7 @@ Pasionate about making a vision into reality while at the same time increasing m
 *   🌍  I'm based in Denver, Colorado
 *   🖥️  See my portfolio at [oscarcampos96.com](http://oscarcampos96.com)
 *   ✉️  You can contact me at [oscarc691@gmail.com](mailto:oscarc691@gmail.com)
-*   🧠  I'm learning React.js, Nect.js, SQL, and Python
+*   🧠  I'm learning React.js, Next.js, SQL, and Python
 *   🤝  I'm open to collaborating on Any projects regarless of my knowledge of language
 *   ⚡  I use alot of personal time to program and it annoys my wife lol### Skills 
 <p align="left">
